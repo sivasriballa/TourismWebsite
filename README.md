@@ -1,4 +1,8 @@
 # Tourism Website
+Constructed an engaging travel platform where visitors can explore images, videos, and details about famous destinations.
+
+•	Utilized various HTML elements and CSS3 techniques, like background and flex, to create a responsive design.
+Technologies used: HTML, CSS
 
 To see webpage click on this link: https://sivasriballa.github.io/TourismWebsite/
 
